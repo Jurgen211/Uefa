@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px  #64bded;
+    text-align: center;
+   
+}
+
+tr:nth-child(even) {
+    background-color: #64bded;
+}
+
+
+div{
+    text-align: center;
+    justify-content: center;
+}
+
+.registros{
+     width: 70%;
+    display: flex;
+    justify-content: center;
+
+}
+img{
+    top: 0px;
+    width: 125px;
+    height: 85px;
+}
+header{
+     height: 135px;
+    background-color: #8a3630;
+}
